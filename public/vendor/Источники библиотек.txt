@@ -1,0 +1,7 @@
+Локальные библиотеки для выгрузки документов
+
+docx 9.6.1, MIT, https://www.npmjs.com/package/docx
+pdf-lib 1.17.1, MIT, https://www.npmjs.com/package/pdf-lib
+@pdf-lib/fontkit 1.1.1, MIT, https://www.npmjs.com/package/@pdf-lib/fontkit
+
+Библиотеки загружаются с этого локального сервера, без CDN. Исходные уведомления и лицензии сохранены рядом. Шрифты DejaVu лежат в assets/fonts вместе с лицензией.

@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Shanyraq · Статистика команды</title>
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+  <script type="module" src="/admin.js"></script>
+</head>
+<body>
+  <header class="site-header"><div class="container header-inner"><a class="brand" href="/"><img src="/assets/shanyraq-ru.png" alt="Shanyraq"><span class="brand-copy">Статистика команды<span>Локальная рабочая версия</span></span></a><a href="/">Открыть навигатор</a></div></header>
+  <main class="container admin">
+    <p class="eyebrow">Для команды ITeachMe</p>
+    <h1>Как помогает навигатор</h1>
+    <p class="muted">Здесь появляются только события пользователей, давших согласие. Все данные этой версии находятся на вашем компьютере.</p>
+    <form id="admin-form" class="admin-key"><label><span class="field-label">Ключ локального доступа</span><input id="admin-key" class="form-field" type="password" autocomplete="off" required></label><button class="btn" type="submit">Открыть отчёт</button></form>
+    <p id="admin-error" class="error" role="alert"></p>
+    <div id="report" aria-live="polite"></div>
+  </main>
+</body>
+</html>

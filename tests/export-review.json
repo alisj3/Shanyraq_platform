@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-17",
+  "browserDownloads": [
+    "Word RU",
+    "PDF RU",
+    "PDF KK"
+  ],
+  "consoleErrors": 0,
+  "unitChecks": 33,
+  "serverChecks": 11,
+  "formats": [
+    {
+      "language": "RU",
+      "pages": 9,
+      "checkboxes": 48,
+      "textFields": 18,
+      "links": 35,
+      "outlineEntries": 9,
+      "savedValueRoundTrip": true
+    },
+    {
+      "language": "KK",
+      "pages": 8,
+      "checkboxes": 36,
+      "textFields": 14,
+      "links": 28,
+      "outlineEntries": 7,
+      "savedValueRoundTrip": true
+    }
+  ],
+  "visualReview": {
+    "wordRuPages": 7,
+    "wordKkPages": 6,
+    "pdfRuPages": 9,
+    "pdfKkPages": 8,
+    "allPagesReviewed": true,
+    "filledKazakhNotesRendered": true
+  },
+  "privacy": "No responses are sent to the server for conversion. Source archive excludes .local and browser data."
+}
